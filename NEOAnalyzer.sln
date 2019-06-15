@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TreasureModifier", "TreasureModifier\TreasureModifier.pyproj", "{58EBFB16-6B55-4076-9D6B-8E6FD1E19488}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ItemsViewer", "ItemsViewer\ItemsViewer.pyproj", "{A229ED52-031C-427E-BA43-24F0DB758558}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alpha", "Alpha", "{AE397EB4-AB82-4018-9035-3C93866BFD93}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Alpha_ItemsViewer", "Alpha_ItemsViewer\Alpha_ItemsViewer.pyproj", "{D14F5ED9-4A8D-4726-B524-90950B7D12BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58EBFB16-6B55-4076-9D6B-8E6FD1E19488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EBFB16-6B55-4076-9D6B-8E6FD1E19488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A229ED52-031C-427E-BA43-24F0DB758558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A229ED52-031C-427E-BA43-24F0DB758558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14F5ED9-4A8D-4726-B524-90950B7D12BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14F5ED9-4A8D-4726-B524-90950B7D12BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D14F5ED9-4A8D-4726-B524-90950B7D12BF} = {AE397EB4-AB82-4018-9035-3C93866BFD93}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4CAB60-45F1-4187-BC60-9F811BE9B2AE}
+	EndGlobalSection
+EndGlobal
